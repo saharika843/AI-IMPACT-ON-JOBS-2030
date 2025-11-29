@@ -7,7 +7,7 @@ This dashboard highlights exposure levels, automation risks, job vulnerability, 
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](./AI-DASHBOARD.png)
+![Dashboard Preview](./AI%20DASHBOARD.png)
 
 ---
 
